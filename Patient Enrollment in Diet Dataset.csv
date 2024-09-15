@@ -1,0 +1,51 @@
+Gneder ,Age ,Weight,BMI,Physical Activity ,Blood Pressure,Cholesterol Level,Strict Diet Required
+Female ,45,68,26.8,Moderate,High,High,Yes
+Male,34,85,27.4,High,Normal,Normal,No
+Female ,29,60,23.1,Moderate,Normal,Normal,No
+Male,50,95,29.7,Low,High,High,Yes
+Female ,63,72,28,Low,High,High,Yes
+Male,40,78,24.5,Moderate,Normal,High,No
+Female ,22,55,21.9,High,Normal,Normal,No
+Male,47,88,30.2,Low,High,High,Yes
+Female ,55,70,25,Moderate,Normal,Normal,No
+Male,36,80,26.3,High,Normal,Normal,No
+Female ,49,78,28.9,Low,High,High,Yes
+Male,31,65,22.4,Moderate,Normal,Normal,No
+Female ,38,74,27.1,High,Normal,Normal,No
+Male,60,90,32,Low,High,High,Yes
+Female ,52,69,26.1,Moderate,Normal,High,No
+Male,28,77,25.9,High,Normal,Normal,No
+Female ,43,61,22.8,Moderate,High,Normal,No
+Male,55,92,31.5,Low,High,High,Yes
+Female ,34,66,24,Moderate,Normal,Normal,No
+Male,46,83,29,Low,High,High,Yes
+Female ,30,58,21.5,High,Normal,Normal,No
+Male,53,87,30.8,Low,High,High,Yes
+Female ,41,65,24.5,Moderate,Normal,Normal,No
+Male,27,74,23.9,High,Normal,Normal,No
+Female ,37,71,26.7,Moderate,High,High,Yes
+Male,48,91,30.3,Low,High,High,Yes
+Female ,33,62,22.1,Moderate,Normal,Normal,No
+Male,42,79,25.4,High,Normal,High,No
+Female ,59,73,27.5,Low,High,High,Yes
+Male,32,67,23,Moderate,Normal,Normal,No
+Female ,51,85,29.9,Low,High,High,Yes
+Male,29,69,24.1,High,Normal,Normal,No
+Female ,48,77,27.8,Moderate,High,Normal,Yes
+Male,39,82,28.6,Low,High,High,Yes
+Female ,56,64,25.2,Moderate,Normal,Normal,No
+Male,45,89,30,High,Normal,High,No
+Female ,35,60,21,Moderate,Normal,Normal,No
+Male,44,95,31,Low,High,High,Yes
+Female ,26,68,23.5,High,Normal,Normal,No
+Male,38,81,28.2,Moderate,High,High,Yes
+Female ,50,76,26.9,Low,High,High,Yes
+Male,54,94,32.4,Low,High,High,Yes
+Female ,31,63,22.3,Moderate,Normal,Normal,No
+Male,47,86,29.4,Low,High,High,Yes
+Female ,28,70,24.9,High,Normal,Normal,No
+Male,41,75,25.7,Moderate,Normal,Normal,No
+Female ,60,72,28.1,Low,High,High,Yes
+Male,36,88,30.6,Low,High,High,Yes
+Female ,27,61,23,Moderate,Normal,Normal,No
+Male,48,84,29.1,High,High,Normal,Yes
